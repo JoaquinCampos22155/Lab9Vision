@@ -1,0 +1,8 @@
+path: My First Project.yolov8
+train: train/images
+val: valid/images
+test:
+
+nc: 1
+names:
+  0: Squirtle
